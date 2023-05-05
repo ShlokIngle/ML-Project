@@ -1,0 +1,44 @@
+matchid,playername,total_runs,total_balls_faced,total_legal_balls_faced,run_6,run_4,fallofwickets,batsmen_innings,batsmen_battingteam,batsmen_bowlingteam,total_wickets,total_balls_bowled,total_legal_balls_bowled,total_runs_given,maiden_overs,bowlers_innings,bowler_battingteam,bowler_bowlingteam,economy_rate,playing_role,total_runs_points,run_6_points,run_4_points,run_bonus_points,total_bat_points,total_wickets_points,economy_rate_points,maiden_overs_points,wicket_bonus_points,total_bowl_points,total_points
+1254090,AB de Villiers,24.0,18.0,18.0,2.0,1.0,0.0,1st innings,Royal Challengers Bangalore,Punjab Kings,,,,,,,,,,Batsmen,24.0,4.0,1.0,0,29.0,,0,,0,,29.0
+1254090,Aiden Markram,20.0,14.0,14.0,1.0,2.0,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,,6.0,6.0,5.0,0.0,1st innings,Royal Challengers Bangalore,Punjab Kings,5.0,AllRounder,20.0,2.0,2.0,0,24.0,,4,0.0,0,4.0,28.0
+1254090,Dan Christian,0.0,1.0,1.0,,,2.0,1st innings,Royal Challengers Bangalore,Punjab Kings,,6.0,6.0,11.0,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,11.0,Bowler,0.0,,,-2,-2.0,,-6,0.0,0,-6.0,-8.0
+1254090,Devdutt Padikkal,43.0,40.0,38.0,2.0,4.0,0.0,1st innings,Royal Challengers Bangalore,Punjab Kings,,,,,,,,,,Batsmen,43.0,4.0,4.0,0,51.0,,0,,0,,51.0
+1254090,GJ Maxwell,61.0,35.0,33.0,4.0,3.0,0.0,1st innings,Royal Challengers Bangalore,Punjab Kings,,,,,,,,,,Batsmen,61.0,8.0,3.0,8,80.0,,0,,0,,80.0
+1254090,George Garton,0.0,1.0,1.0,,,7.0,1st innings,Royal Challengers Bangalore,Punjab Kings,1.0,27.0,24.0,27.0,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,6.75,Bowler,0.0,,,-2,-2.0,25.0,0,0.0,0,25.0,23.0
+1254090,H Brar,3.0,2.0,2.0,,,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,,24.0,24.0,27.0,0.0,1st innings,Royal Challengers Bangalore,Punjab Kings,6.75,Bowler,3.0,,,0,3.0,,0,0.0,0,0.0,3.0
+1254090,HV Patel,1.0,1.0,1.0,,,0.0,1st innings,Royal Challengers Bangalore,Punjab Kings,,24.0,24.0,27.0,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,6.75,Bowler,1.0,,,0,1.0,,0,0.0,0,0.0,1.0
+1254090,KL Rahul,40.0,35.0,35.0,2.0,1.0,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,,,,,,,,,,Batsmen,40.0,4.0,1.0,0,45.0,,0,,0,,45.0
+1254090,MA Agarwal,63.0,46.0,44.0,2.0,6.0,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,,,,,,,,,,Batsmen,63.0,4.0,6.0,8,81.0,,0,,0,,81.0
+1254090,Moises Henriques,12.0,9.0,9.0,1.0,,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,3.0,24.0,24.0,14.0,0.0,1st innings,Royal Challengers Bangalore,Punjab Kings,3.5,AllRounder,12.0,2.0,,0,14.0,75.0,6,0.0,0,81.0,95.0
+1254090,N Pooran,3.0,7.0,7.0,,,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,,,,,,,,,,Batsmen,3.0,,,0,3.0,,0,,0,,3.0
+1254090,S Ahmed,8.0,4.0,4.0,1.0,,0.0,1st innings,Royal Challengers Bangalore,Punjab Kings,1.0,18.0,18.0,29.0,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,9.666666666666666,Bowler,8.0,2.0,,0,10.0,25.0,-2,0.0,0,23.0,33.0
+1254090,SN Khan,0.0,1.0,1.0,,,4.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,,,,,,,,,,Batsmen,0.0,,,-2,-2.0,,0,,0,,-2.0
+1254090,Shahrukh Khan,17.0,12.0,11.0,1.0,1.0,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,,,,,,,,,,Batsmen,17.0,2.0,1.0,0,20.0,,0,,0,,20.0
+1254090,V Kohli,27.0,25.0,25.0,1.0,2.0,0.0,1st innings,Royal Challengers Bangalore,Punjab Kings,,,,,,,,,,Batsmen,27.0,2.0,2.0,0,31.0,,0,,0,,31.0
+1254109,A Samad,25.0,18.0,18.0,3.0,,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,,,,,,,,,,Batsmen,25.0,6.0,,0,31.0,,0,,0,,31.0
+1254109,Abhishek Sharma,6.0,10.0,10.0,,,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,,,,,,,,,,Batsmen,6.0,,,0,6.0,,0,,0,,6.0
+1254109,EJG Morgan,2.0,2.0,2.0,,,0.0,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,,,,,,,,,,Batsmen,2.0,,,0,2.0,,0,,0,,2.0
+1254109,JO Holder,4.0,9.0,9.0,,,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,2.0,24.0,24.0,32.0,0.0,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,8.0,AllRounder,4.0,,,0,4.0,50.0,0,0.0,0,50.0,54.0
+1254109,Jason Roy,11.0,13.0,12.0,,2.0,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,,,,,,,,,,Batsmen,11.0,,2.0,0,13.0,,0,,0,,13.0
+1254109,KD Karthik,18.0,12.0,12.0,,3.0,0.0,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,,,,,,,,,,Batsmen,18.0,,3.0,0,21.0,,0,,0,,21.0
+1254109,KS Williamson,26.0,21.0,21.0,,4.0,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,,,,,,,,,,Batsmen,26.0,,4.0,0,30.0,,0,,0,,30.0
+1254109,N Rana,27.0,35.0,33.0,,3.0,0.0,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,,,,,,,,,,Batsmen,27.0,,3.0,0,30.0,,0,,0,,30.0
+1254109,P Garg,21.0,31.0,31.0,1.0,,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,,,,,,,,,,Batsmen,21.0,2.0,,0,23.0,,0,,0,,23.0
+1254109,P Kumar,7.0,7.0,7.0,,,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,,24.0,24.0,20.0,0.0,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,5.0,Bowler,7.0,,,0,7.0,,4,0.0,0,4.0,11.0
+1254109,RA Tripathi,7.0,6.0,6.0,,1.0,0.0,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,,,,,,,,,,Batsmen,7.0,,1.0,0,8.0,,0,,0,,8.0
+1254109,Rashid Khan,8.0,6.0,6.0,,1.0,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,1.0,24.0,24.0,23.0,0.0,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,5.75,Bowler,8.0,,1.0,0,9.0,25.0,2,0.0,0,27.0,36.0
+1254109,S Kaul,7.0,5.0,5.0,,1.0,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,1.0,22.0,22.0,17.0,0.0,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,4.636363636363637,Bowler,7.0,,1.0,0,8.0,25.0,4,0.0,0,29.0,37.0
+1254109,Shubman Gill,57.0,51.0,51.0,,10.0,0.0,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,,,,,,,,,,Batsmen,57.0,,10.0,8,75.0,,0,,0,,75.0
+1254109,Venkatesh Iyer,8.0,14.0,14.0,,,0.0,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,,,,,,,,,,Batsmen,8.0,,,0,8.0,,0,,0,,8.0
+1254109,WP Saha,0.0,1.0,1.0,,,1.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,,,,,,,,,,Batsmen,0.0,,,-2,-2.0,,0,,0,,-2.0
+1254090,Arshdeep Singh,,,,,,,,,,,22.0,18.0,42.0,0.0,1st innings,Royal Challengers Bangalore,Punjab Kings,14.0,Bowler,,,,0,,,-6,0.0,0,-6.0,-6.0
+1254090,M Siraj,,,,,,,,,,,25.0,24.0,34.0,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,8.5,Bowler,,,,0,,,0,0.0,0,0.0,0.0
+1254090,Mohammed Shami,,,,,,,,,,3.0,24.0,24.0,39.0,0.0,1st innings,Royal Challengers Bangalore,Punjab Kings,9.75,Bowler,,,,0,,75.0,-2,0.0,0,73.0,73.0
+1254090,R Bishnoi,,,,,,,,,,,25.0,25.0,37.0,0.0,1st innings,Royal Challengers Bangalore,Punjab Kings,8.88,Bowler,,,,0,,,0,0.0,0,0.0,0.0
+1254090,YS Chahal,,,,,,,,,,3.0,26.0,25.0,30.0,0.0,2nd innings,Punjab Kings,Royal Challengers Bangalore,7.2,Bowler,,,,0,,75.0,0,0.0,0,75.0,75.0
+1254109,SP Narine,,,,,,,,,,,24.0,24.0,12.0,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,3.0,Bowler,,,,0,,,6,0.0,0,6.0,6.0
+1254109,Shakib Al Hasan,,,,,,,,,,1.0,24.0,24.0,20.0,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,5.0,Bowler,,,,0,,25.0,4,0.0,0,29.0,29.0
+1254109,Shivam Mavi,,,,,,,,,,2.0,25.0,24.0,29.0,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,7.25,Bowler,,,,0,,50.0,0,0.0,0,50.0,50.0
+1254109,Tim Southee,,,,,,,,,,2.0,24.0,24.0,26.0,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,6.5,Bowler,,,,0,,50.0,0,0.0,0,50.0,50.0
+1254109,Umran Malik,,,,,,,,,,,26.0,24.0,27.0,0.0,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,6.75,Bowler,,,,0,,,0,0.0,0,0.0,0.0
+1254109,Varun Chakravarthy,,,,,,,,,,2.0,24.0,24.0,28.0,0.0,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,7.0,Bowler,,,,0,,50.0,0,0.0,0,50.0,50.0
